@@ -5,7 +5,7 @@ import org.springframework.stereotype.Service;
 @Service
 public class DeduplicationService {
 
-    public String deduplicate(String input) {
+    public String removeDuplicates(String input) {
         return "test";
     }
 }

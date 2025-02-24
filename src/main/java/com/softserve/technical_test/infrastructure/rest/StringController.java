@@ -19,7 +19,7 @@ public class StringController {
 
     @PostMapping("/unique-strings")
     public ResponseEntity<String> createUniqueString(@RequestBody String input) {
-        String output = deduplicationService.deduplicate(input);
+        String output = deduplicationService.removeDuplicates(input);
         return ResponseEntity.ok(output);
     }
 }
