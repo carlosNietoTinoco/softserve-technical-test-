@@ -1,0 +1,3 @@
+/home/carlos/desarrollo/SoftServe/technical-test/src/test/java/com/softserve/technical_test/TechnicalTestApplicationTests.java
+/home/carlos/desarrollo/SoftServe/technical-test/src/test/java/com/softserve/technical_test/application/service/DeduplicationServiceTest.java
+/home/carlos/desarrollo/SoftServe/technical-test/src/test/java/com/softserve/technical_test/infrastructure/rest/StringControllerEndToEndTest.java

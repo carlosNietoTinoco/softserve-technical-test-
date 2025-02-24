@@ -1,0 +1,3 @@
+com/softserve/technical_test/TechnicalTestApplicationTests.class
+com/softserve/technical_test/infrastructure/rest/StringControllerEndToEndTest.class
+com/softserve/technical_test/application/service/DeduplicationServiceTest.class
